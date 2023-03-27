@@ -1,0 +1,6 @@
+[submodule "ssung-delivery-frontend"]
+	path = ssung-delivery-frontend
+	url = https://github.com/gdsc-ssu/ssung-delivery-frontend
+[submodule "ssung-delivery-backend"]
+	path = ssung-delivery-backend
+	url = https://github.com/gdsc-ssu/ssung-delivery-backend
